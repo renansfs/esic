@@ -1,0 +1,9 @@
+SQLALCHEMY_DATABASE_URI = 'postgresql://renan:1234@localhost/esic'
+
+ESIC_EMAIL = "renansfs@msn.com"
+ESIC_PASSWORD = "malaqueta22"
+FIREFOX_PATH = "../firefox/firefox"
+DOWNLOADS_PATH = "../../../Downloads"
+ATTACHMENT_URL_PREFIX = '{prefix}'
+LOG_FOLDER = "../LOG_FOLDER"
+DEBUG = True
